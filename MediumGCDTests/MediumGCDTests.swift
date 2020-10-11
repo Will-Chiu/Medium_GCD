@@ -2,7 +2,7 @@
 //  MediumGCDTests.swift
 //  MediumGCDTests
 //
-//  Created by Entangled Mind on 10/10/2020.
+//  Created by Will Chiu on 10/10/2020.
 //
 
 import XCTest

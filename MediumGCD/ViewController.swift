@@ -56,9 +56,9 @@ class ViewController: UIViewController {
 
         // Example 4
 //        heavyDutyAsync("concurrentQueue1 🔴", queue: concurrentQueue1)
-//        heavyDutySync("concurrentQueue1 🟠", queue: concurrentQueue2)
+//        heavyDutySync("concurrentQueue2 🟠", queue: concurrentQueue2)
 //        heavyDutySync("serialQueue1 🟢", queue: serialQueue1)
-//        heavyDutyAsync("serialQueue1 🔵", queue: serialQueue2)
+//        heavyDutyAsync("serialQueue2 🔵", queue: serialQueue2)
         
     }
     
